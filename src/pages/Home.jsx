@@ -15,7 +15,7 @@ function Home() {
     { title: "Packages", path: "/packages", icon: "🌍" },
     { title: "Trains", path: "/train", icon: "🚆" },
     { title: "Cabs", path: "/cab", icon: "🚖" },
-    { title: "Hotels", path: "/hotel", icon: "🏨" },
+    { title: "Hotels", path: "/hotels", icon: "🏨" },
   ];
 
   return (
